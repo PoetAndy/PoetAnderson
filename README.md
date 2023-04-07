@@ -3,30 +3,32 @@
 <p>I am a beginner Python developer without work experience.</p>
 
 <h2 align="center">Базовые знания программирования | Basic knowledge of programming</h2>
-<p>Владею хорошим уровнем знаний Python и немного владею C++, С#. Освоил работу с Git.</p>
 
-<p>I have a good level of knowledge in Python and a little bit in C++ and C#. I have mastered working with Git.</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,github,cs,cpp" />
-  </a>
-</p>
+<p>Владею хорошим уровнем знаний Python и немного владею C++, С#. Освоил работу с Git и Linux.</p>
 
-<h2 align="center">Basic knowledge of work applications</h2>
+<p>I have a good level of knowledge in Python and a little bit in C++ and C#. I have mastered working with Git and Linux.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,github,cs,cpp,linux" />
   </a>
 </p>
 
-Коротко обо мне:
+<h2 align="center">Базовые знания рабочих приложений | Basic knowledge of work applications</h2>
 
-Не боюсь изучать новое.
+<p>Работаю в таких программах как: Microsoft Visual Studio, PyCharm, VM VirtualBox, SecretNetStudio и комплексом программ Microsoft Office.</p>
 
-Готов улучшать свои знания, нацелен на получение новго опыта и развитеи профильных навыков.
+<p>I work in software such as Microsoft Visual Studio, PyCharm, VM VirtualBox, SecretNetStudio, and the suite of Microsoft Office programs.</p>
 
-Умею работать в команде и легко нахожу общий язык с коллегами.
+<h2 align="center">Коротко обо мне | Briefly about me</h2>
+
+
+Не боюсь изучать новое  и заинтересован в поиске новых возможностей для реализации своих навыков и идей.
+
+Я стремлюсь к самосовершенствованию и применяю активный подход в работе.
 
 Подхожу к любой задаче ответственно, делаю - качественно, уделяю внимание деталям.
 
+Готов улучшать свои знания, развивать профильные навыки, нацелен на получение новго профессианального опыта.
+
+Умею работать в команде и легко нахожу общий язык с коллегами.
