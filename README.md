@@ -2,7 +2,7 @@
 <p>Я начинающий Python разработчик, без опыта работы</p>
 <p>I am a beginner Python developer without work experience.</p>
 
-<h2 align="center">Basic knowledge of programming</h2>
+<h2 align="center">Базовые знания программирования | Basic knowledge of programming</h2>
 <p>Владею хорошим уровнем знаний Python и немного владею C++, С#. Освоил работу с Git.</p>
 
 <p>I have a good level of knowledge in Python and a little bit in C++ and C#. I have mastered working with Git.</p>
