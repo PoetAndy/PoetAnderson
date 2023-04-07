@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут Андрей | Hi there! My name is Andrew</h1>
-<p>Я начинающий Python разработчик, без опыта работы</p>
-<p>I am a beginner Python developer without work experience.</p>
+<p>Я начинающий Python разработчик и младший специалист по информационной безопасности, без опыта работы</p>
+<p>I am a beginner Python developer and a junior specialist in information security without work experience.</p>
 
 <h2 align="center">Базовые знания программирования | Basic knowledge of programming</h2>
 
